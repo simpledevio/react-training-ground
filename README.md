@@ -26,4 +26,4 @@ Open http://localhost:5173/ in your browser.
 
 ## Edit
 
-Start editing `src/App.jsx`.
+Start editing [`src/App.jsx`](src/App.jsx).
